@@ -54,7 +54,7 @@ Click **"Create Script Command"** to generate the file.
 
 ### 3. Replace the Script Contents
 
-Raycast will open the new script in your default editor. Replace its contents with the following:
+Oprn the new script in a text editor. Replace its contents with the following:
 
 ```bash
 #!/bin/bash
