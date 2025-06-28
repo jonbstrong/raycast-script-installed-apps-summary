@@ -29,6 +29,10 @@ It’s a great way to rediscover what’s already on your system and avoid unnec
   - 📆 How many were modified (installed) **this year**
   - 📆 How many were modified **last year**
 
+### 🖼️ Example Notification Output
+
+<img src="https://i.imgur.com/JYfndGE.png" alt="Notification preview" width="500"/>
+
 ---
 
 ## 🛠 How to Set It Up in Raycast
